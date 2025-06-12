@@ -1,0 +1,15 @@
+{
+  "name": "operio-whitepaper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "docusaurus build",
+    "start": "docusaurus start"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.4.3",
+    "@docusaurus/preset-classic": "^2.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
