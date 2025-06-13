@@ -134,12 +134,4 @@ This translates to an **annual value of €10,000-30,000+ per individual** that 
 
 ---
 
-## Next Steps
-
-You now have a solid, quantified foundation to communicate the problem’s real impact. This clarity empowers you to clearly demonstrate the value proposition of your AI-native ERP to customers and investors alike.
-
-Are you ready to move forward to mapping the current solutions landscape and validate how Operio can uniquely solve this problem?
-
----
-
 Thank you for trusting this process — together, we can transform SMB productivity and wellbeing with AI-driven automation.
