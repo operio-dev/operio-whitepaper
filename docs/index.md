@@ -6,16 +6,18 @@ Welcome to the Operio whitepaper — the AGI-native ERP designed for the future.
 
 ## Contents
 
-1. [01_introduction](01_introduction.md)  
-2. [02_market_problem](02_market_problem.md)  
-3. [03_architecture](03_architecture.md)  
-4. [04_product_modules](04_product_modules.md)  
-5. [05_technology_stack](05_technology_stack.md)  
-6. [06_scalability_security](06_scalability_security.md)  
-7. [07_roadmap](07_roadmap.md)  
-8. [08_revenue_model](08_revenue_model.md)  
-9. [09_team_advisors](09_team_advisors.md)  
-10. [10_faq](10_faq.md)
+1. [01_introduction](01_introduction)  
+2. [02_market_problem](02_market_problem)  
+3. [03_problem_validation](03_problem_validation)  
+4. [04_architecture](04_architecture)  
+5. [05_product_modules](05_product_modules)  
+6. [06_technology_stack](06_technology_stack)  
+7. [07_scalability_security](07_scalability_security)  
+8. [08_roadmap]
+(08_roadmap)  
+10. [09_revenue_model](09_revenue_model)  
+11. [10_team_advisors](10_team_advisors)  
+12. [11_faq](11_faq)
 
 ---
 
