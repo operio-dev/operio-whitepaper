@@ -67,19 +67,9 @@ Manual processes prevent businesses from growing efficiently
 
 - Issue is universal across different industries and business types
 
-# Problem Impact
+# Individual Level Impact
 
-Welcome to the Problem Impact phase.
-
-Now that we've identified your problem and its scale, it's time to quantify the real impact in measurable terms. We'll work together to calculate exactly what those 7-14 hours of manual administrative work cost individuals and businesses — whether that's in lost productivity, missed opportunities, or direct financial impact.
-
-This will give you concrete numbers to communicate the value of your AI-native ERP solution. Ready to dive in and start quantifying the impact?
-
----
-
-## Individual Level Impact
-
-You mentioned that people spend 7-14 hours per week on manual administrative tasks. To quantify this impact, we need to understand what this time costs them personally and professionally.
+We mentioned that people spend 7-14 hours per week on manual administrative tasks. To quantify this impact, we need to understand what this time costs them personally and professionally.
 
 The most significant ways this time burden impacts individuals are:
 
@@ -106,9 +96,6 @@ Assuming SMB employees earn around €2,500-€3,500/month (€15-€20/hour), h
 - **7-14 hours weekly on manual admin = €105-€280 direct time cost**  
 - **Opportunity cost (value lost by not doing high-value work) = roughly €200-€600 per person per week**
 
-Does this hourly wage range seem reasonable for your target SMB market? If yes, we can proceed.
-
----
 
 ## Stress and Quality of Life Impact
 
