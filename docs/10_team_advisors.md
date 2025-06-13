@@ -20,7 +20,7 @@ Operio has attracted support from a select group of visionary advisors/investors
 
 Operio is built by a passionate team of entrepreneurs, engineers, and AI specialists with proven track records:
 
-- **Filippo Tafuri, Founder & CEO:** Experienced in launching startups and enterprise software and as a former Odoo, with a background in sales intelligence and automation.
+- **Filippo Tafuri, Founder & CEO:** Former Sales Team Leader at Odoo. Experienced in launching startups and enterprise software with a background in sales intelligence and automation e GTM strategies.
 - **Navdeep Saini, CTO & Co-founder:** Expert in machine learning and natural language processing with an MSc at IIT (Delhi) and covering full-stack engineering for the MVP phase. Skilled in scalable microservices and cloud infrastructure.
 
 *Feedback and early input received from UI/UX experts including Dan Mall (Design System University)*.
