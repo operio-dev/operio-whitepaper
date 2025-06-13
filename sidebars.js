@@ -2,7 +2,7 @@ module.exports = {
   docs: [
     '01_introduction',
     '02_market_problem',
-    '03_problem_validation',
+    '03_problem_validation_problem_impact',
     '04_architecture',
     '05_product_modules',
     '06_technology_stack',
