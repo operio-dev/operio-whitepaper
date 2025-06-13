@@ -1,6 +1,7 @@
 # Operio Whitepaper
 
-Welcome to the Operio whitepaper — the AGI-native ERP designed for the future.
+**The AGI-native ERP designed for the future.**  
+Operio is the first modular, pro-active, and business-intuitive operating system designed natively for the AGI era.
 
 ---
 
@@ -22,8 +23,12 @@ Welcome to the Operio whitepaper — the AGI-native ERP designed for the future.
 
 ## How to use this whitepaper
 
-Click the links above to navigate the main sections. Each page is written in Markdown and published publicly via GitHub Pages.
+Each section is available as a standalone Markdown file in the `/docs` folder.  
+You can click any section above to navigate, or browse directly on GitHub.
 
 ---
 
-Thank you for your interest in Operio!
+## Thank you
+
+Thank you for your interest in Operio.  
+We’re building something radically new — and you’re among the first to see it.
