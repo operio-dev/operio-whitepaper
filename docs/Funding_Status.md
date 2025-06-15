@@ -1,33 +1,40 @@
-# FUNDING STATUS
+## 08 — Funding Status
 
-## Founder Investment
+### Founder Investment
 
-To date, the Operio project has been entirely self-funded by the founder, who has invested €40,000 of personal capital. These resources have been used to:
+To date, Operio has been entirely self-funded, with the founder investing **€40,000** of personal capital. This investment has enabled:
 
-- Conduct early market research and validation
-- Build and test multiple MVP directions  
-- Create core documentation and branding  
-- Begin forming the first strategic partnerships  
-- Lay the groundwork for the launch and raise process
+- Early market research and validation  
+- Development and testing of multiple MVP directions  
+- Branding, technical documentation, and whitepaper production  
+- Initial outreach to design partners and pilot users  
+- Laying the operational and infrastructure foundation for the first launch  
 
-This personal commitment demonstrates a high level of conviction and long-term vision behind the project.
+This commitment reflects a high level of conviction and long-term founder alignment.
 
-## Current Raise
+---
 
-We are currently raising a pre-pre-seed round between **€50,000 and €100,000**, which will be used to:
+### Current Raise — Pre-Pre-Seed (€50–100K)
 
-- Finalize a functional MVP (targeting 70% feature completeness)  
-- Engage with the first 10 pilot clients  
-- Set up a scalable technical infrastructure  
-- Prepare for a large (huge!) pre-seed raise within 6-9 months
+We are currently raising between **€50,000 and €100,000** to:
 
-## Future Round (Seed)
+- Deliver a working MVP with ~70% feature coverage  
+- Launch with 10 pilot clients across sales and ops use cases  
+- Harden the technical infrastructure for real-world usage  
+- Build momentum toward a larger institutional round  
 
-Once traction is demonstrated with early adopters, we plan to raise a larger **Pre-Seed round** to:
+The goal is to achieve **early traction, validation, and velocity** before entering the next stage.
 
-- Scale team and operations  
-- Accelerate customer acquisition
-- Speeding up Tech evolution 
-- Further develop the AGI-native ERP modules  
-- Launch comprehensive marketing and Web3 integration
+---
 
+### Looking Ahead — Pre-Seed & Seed Strategy
+
+Upon demonstrating engagement and retention among pilot customers, we plan to raise a **Pre-Seed round (6–9 months out)** focused on:
+
+- Team expansion (AI engineers, DevOps, design, GTM)  
+- Accelerating customer acquisition through focused verticals  
+- Expanding the AGI-native agent framework across modules  
+- Launching the partner marketplace and Web3-ready architecture  
+- Scaling branding and founder-led evangelism  
+
+We’re building for long-term defensibility, and this next round will position Operio for institutional growth.
