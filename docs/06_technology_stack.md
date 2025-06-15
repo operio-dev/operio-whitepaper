@@ -6,6 +6,8 @@ Operio is built upon a modern and scalable technology foundation engineered to s
 
 Operio adopts a cloud-native architecture hosted on leading cloud providers, ensuring high availability, fault tolerance, and elastic resource management. Kubernetes orchestrates containerized microservices deployed via Docker, allowing modular components to scale independently and efficiently.
 
+*Operio is cloud-provider agnostic by design, supporting deployment on AWS, GCP, or Azure. All infrastructure components can be replicated via Terraform scripts, enabling enterprises to maintain portability and avoid vendor lock-in*.
+
 ## Backend
 
 The backend leverages a hybrid Node.js and Python environment, enabling rapid development and integration of core API services, autonomous AI agents, and the orchestration engine. GraphQL serves as the unified API layer, providing flexible and efficient data querying across disparate modules and services.
@@ -14,19 +16,21 @@ The backend leverages a hybrid Node.js and Python environment, enabling rapid de
 
 At the heart of Operio’s intelligence lies its integration with foundation models such as OpenAI’s GPT and Anthropic’s Claude. These large language models power natural language understanding and generation, enabling human-like interaction and reasoning. Complementing this are custom-trained machine learning agents optimized for domain-specific functions including sales forecasting, procurement automation, and project workflow management. A contextual memory store, implemented via vector databases like Pinecone or Weaviate, supports efficient semantic search and persistent operational context across modules.
 
+These agents operate within isolated, permissioned environments to ensure safe execution of autonomous tasks. Each agent is explainable-by-design and logs all critical actions for full auditability. Operio’s agent runtime supports real-time task planning, memory updates, and multi-agent coordination across domains.
+
 ## Data and Storage
 
-Operio employs PostgreSQL as its primary relational database, ensuring reliable storage and management of structured business data. To minimize latency and accelerate data access, Redis is utilized for in-memory caching. Additionally, a centralized data lake consolidates unstructured data, system logs, and AI training inputs, enabling advanced analytics and continuous model improvement.
+Operio employs PostgreSQL as its primary relational database, ensuring reliable storage and management of structured business data. To minimize latency and accelerate data access, Redis is utilized for in-memory caching. Additionally, a centralized data lake consolidates unstructured data, system logs, and AI training inputs, enabling advanced analytics and continuous model improvement. The data lake is used not only for analytics, but also to feed continuous AI retraining loops. Operational logs, user interactions, and agent outcomes are versioned and curated as structured training datasets, enabling active learning and performance tuning of AI components.
 
 ## Frontend
 
-The user interface is crafted with React.js to deliver a responsive, intuitive dashboard and configuration experience. Styling is implemented through Tailwind CSS, providing a utility-first approach that ensures consistency, rapid iteration, and adaptability across devices.
+The user interface is crafted with React.js to deliver a responsive, intuitive dashboard and configuration experience. Styling is implemented through Tailwind CSS, providing a utility-first approach that ensures consistency, rapid iteration, and adaptability across devices. All frontend routes and API calls are protected through HTTP-only JWTs, strict CORS policies, and input sanitization. The UI also supports secure session rehydration, ensuring user state is preserved securely across browser reloads or session drops.
 
 ## Security and Compliance
 
 Security is foundational to Operio’s architecture. OAuth2 and JWT protocols govern authentication and authorization, safeguarding access to resources. Data is protected end-to-end with encryption both in transit and at rest. Operio is designed to meet stringent compliance requirements including GDPR and SOC2, aligning with enterprise standards for data privacy and security.
 
-Operio’s technology stack harmonizes scalability, intelligence, and security to empower enterprises with a future-proof platform capable of evolving alongside their operational needs.
+Operio supports a plugin-based extension system for enterprise developers. Modules can be added as external packages exposing agent hooks, custom workflows, or UI panels. This empowers organizations to customize without forking the core codebase.
 
 
 # 07 — Scalability & Security
@@ -45,6 +49,9 @@ Operio is designed from day one to support both vertical and horizontal scaling,
 
 - **Elastic Infrastructure**:  
   Deployed initially on platforms like **Railway**, **Render**, or **Fly.io**, with the ability to migrate to full **Kubernetes clusters** when higher control is needed. Services auto-scale based on usage patterns.
+
+- **Hybrid Execution Model**:
+  Operio supports both long-lived agent sessions and ephemeral serverless jobs. High-frequency, compute-intensive tasks (e.g., vector search, real-time forecasting) are offloaded to stateless functions, while persistent workflows are handled by agent containers with memory continuity.
 
 - **Database Sharding & Read Replicas**:  
   PostgreSQL is used as the primary database with support for horizontal sharding (by tenant) and read replicas for high-volume operations.
@@ -87,6 +94,8 @@ Security is embedded directly into our CI/CD pipeline:
 - Automated dependency scanning via GitHub Actions
 - Static analysis for TypeScript and Python AI modules
 - Pull request policies and permission workflows
+
+All infrastructure-as-code (IaC) configurations are version-controlled and tested in staging environments before deployment. Secrets are managed via Vault and auto-rotated. Monitoring is handled via Prometheus/Grafana with real-time alerting on anomalies or failed agent behaviors.
 
 ---
 
