@@ -1,6 +1,6 @@
-# Investors & Team
+# Advisors & Team
 
-### Advisors & Investors
+### Advisors 
 
 Operio has attracted support from a select group of visionary advisors/investors who believe in the future of AI-driven enterprise software. Key early backers include:
 
