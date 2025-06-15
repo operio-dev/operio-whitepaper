@@ -28,7 +28,11 @@ You can click any section above to navigate, or browse directly on GitHub.
 
 ---
 
+## TOKENOMICS
+ 1. [TOKENOMICS](TOKENOMICS.md) 
+
 ## Thank you
 
 Thank you for your interest in Operio.  
 We’re building something radically new — and you’re among the first to see it.
+
