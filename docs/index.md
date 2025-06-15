@@ -26,7 +26,7 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 ### Revenue Model
 [09_revenue_model](09_revenue_model)  
 ### Team & Advisors
-[10_team_advisors](10_team_advisors)  
+[10_team_advisors](10_team_advisors.md)  
 ### FAQs
 [11_faq](11_faq)
 
