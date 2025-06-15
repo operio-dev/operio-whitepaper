@@ -33,6 +33,8 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 ## GTM Strategy
 [Go-To-Market & Community](GTM.md)
 
+## USE CASES [Use Cases & Token Utility](Use_Cases.md)
+
 ---
 
 ## How to use this whitepaper
