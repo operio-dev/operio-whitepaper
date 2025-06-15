@@ -7,16 +7,27 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 
 ## CONTENTS
 
+### Introduction
 1. [01_introduction](01_introduction)  
-2. [02_market_problem](02_market_problem)  
-3. [03_problem_validation_problem_impact](03_problem_validation_problem_impact)  
+### Market Problem
+2. [02_market_problem](02_market_problem)
+### Problem Validation & Impact
+3.[03_problem_validation_problem_impact](03_problem_validation_problem_impact)  
+### Architecture
 4. [04_architecture](04_architecture)  
+### Product Modules
 5. [05_product_modules](05_product_modules)  
+### Tech Stack
 6. [06_technology_stack](06_technology_stack)  
+### Scalability & Security
 7. [07_scalability_security](07_scalability_security)  
+### Roadmap
 8. [08_roadmap](08_roadmap)  
+### Revenue Model
 9. [09_revenue_model](09_revenue_model)  
+### Team & Advisors
 10. [10_team_advisors](10_team_advisors)  
+### FAQs
 11. [11_faq](11_faq)
 
 ---
