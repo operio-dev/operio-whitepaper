@@ -14,7 +14,7 @@ This personal commitment demonstrates a high level of conviction and long-term v
 
 ## Current Raise
 
-We are currently raising a pre-pre-seed round between **$50,000 and $100,000**, which will be used to:
+We are currently raising a pre-pre-seed round between **€50,000 and €100,000**, which will be used to:
 
 - Finalize a functional MVP (targeting 70% feature completeness)  
 - Engage with the first 10 pilot clients  
