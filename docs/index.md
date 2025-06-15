@@ -22,10 +22,13 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 ---
 
 ## TOKENOMICS
- 1. [Tokenomics](TOKENOMICS.md)
+   [Tokenomics](TOKENOMICS.md)
 
 ## FUNDING  
-5. [Funding Status](FUNDING.md)
+   [Funding Status](FUNDING.md)
+
+## LAUNCH STRATEGY  
+   [Launchpad Strategy](Launchpad_Strategy.md)
 
 ---
 
