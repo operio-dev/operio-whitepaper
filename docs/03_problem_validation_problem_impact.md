@@ -119,6 +119,18 @@ In addition to financial costs, the stress burden and work-life imbalance are si
 
 This translates to an **annual value of €10,000-30,000+ per individual** that your AI-native ERP solution can potentially unlock by saving 7-14 hours weekly and reducing stress.
 
+## Strategic Insight: The AI-Driven ROI Opportunity
+
+While the average SMB loses €10,000–30,000+ per person annually to manual administrative overhead, an AI-native ERP system like Operio has the potential to turn this inefficiency into a compounding advantage. By reclaiming 7–14 hours per person per week, SMBs can redirect attention to revenue-generating activities, accelerate growth cycles, and reduce the need for early hiring—compounding their runway and efficiency.
+
+## Market Gap: No AGI-Native Solution Exists for SMBs
+
+Despite the surge of AI applications in productivity and sales enablement, no platform has re-architected ERP specifically for small and mid-sized enterprises with intelligence as its operating layer. Operio is the first system designed from the ground up to embed reasoning agents at every functional level—bringing the power of enterprise-grade automation to the SMB space.
+
+## Investor Lens: Category-Creating Opportunity
+
+The underserved SMB segment—often overlooked by legacy ERP vendors—represents a massive untapped market. With over 25 million businesses in Europe and the US falling in the 1–50 employee range, Operio is positioned to lead a new software category: Autonomous Business Infrastructure for modern small businesses.
+
 ---
 
 Thank you for trusting this process — together, we can transform SMB productivity and wellbeing with AI-driven automation.
