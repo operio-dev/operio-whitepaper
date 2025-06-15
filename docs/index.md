@@ -5,7 +5,7 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 
 ---
 
-## Contents
+## CONTENTS
 
 1. [01_introduction](01_introduction)  
 2. [02_market_problem](02_market_problem)  
@@ -21,8 +21,11 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 
 ---
 
-# Tokenomics
+## TOKENOMICS
  1. [Tokenomics](TOKENOMICS.md)
+
+## FUNDING  
+5. [Funding Status](FUNDING.md)
 
 ---
 
@@ -33,7 +36,7 @@ You can click any section above to navigate, or browse directly on GitHub.
 
 ---
 
-## Thank you
+## THANK YOU
 
 Thank you for your interest in Operio.  
 We’re building something radically new — and you’re among the first to see it.
