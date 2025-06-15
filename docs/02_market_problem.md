@@ -2,15 +2,24 @@
 
 Enterprise Resource Planning (ERP) systems have historically functioned as the operational backbone of organizations, consolidating core business functions into centralized, software-based architectures. However, the vast majority of these platforms were engineered in a pre-AI, pre-cloud era, optimized for stability and rigid processes rather than the fluid, high-velocity business environments that define today’s global economy.
 
+### Market Size and Opportunity
+
+The global ERP market is projected to surpass **$123 billion by 2030**, growing at a CAGR of over 10%. However, less than **2%** of this market is currently served by AI-native or agent-compatible platforms. This leaves a multi-billion dollar gap open for platforms that are built natively for autonomous orchestration and real-time intelligence.
+
 Despite the emergence of thousands of SaaS tools aiming to modernize enterprise operations, most of them suffer from five persistent limitations.
+
 ### Overcomplexity and Limited Customization
 Many ERP and SaaS solutions are built on monolithic codebases or inflexible workflows that make adaptation difficult. Customizing these systems requires significant engineering effort or third-party consulting, leading to delays, rising costs, and long onboarding cycles.
+
 ### Siloed Architectures and Fragmented Data
 Different departments adopt disparate tools that do not communicate natively. This fragmentation introduces inefficiencies, obstructs end-to-end visibility, and forces companies to spend significant resources on building data bridges and middleware just to keep their operations coherent.
+
 ### Static Process Design
 Traditional systems are built around fixed workflows that assume linear and predictable operations. In practice, however, organizations today must respond to change in real time, whether due to customer behavior, market volatility, or supply chain dynamics. Legacy tools lack the adaptive logic and contextual awareness needed to support dynamic decision-making at scale.
+
 ### Human-Centric Interfaces, Agent-Incompatible Design
 ERP platforms were originally built for manual input and supervision by human operators. Their underlying architecture does not accommodate autonomous agents, and their user interfaces, while occasionally modernized, remain optimized for human navigation rather than machine interaction. As enterprises move toward AI-augmented and AI-executed operations, this limitation increasingly becomes a structural bottleneck.
+
 ### Minimal Native AI Integration
 While many platforms now advertise “AI-powered” features, these additions are often superficial in nature, such as automated reports, keyword-based chat assistants, or basic analytics modules. They fall short of leveraging the full potential of foundation models or enabling any form of AGI-native intelligence. No incumbent ERP has been rearchitected with these technologies as foundational components.
 
