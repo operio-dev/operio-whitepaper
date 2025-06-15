@@ -21,15 +21,17 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 
 ---
 
+# Tokenomics
+ 1. [Tokenomics](TOKENOMICS.md)
+
+---
+
 ## How to use this whitepaper
 
 Each section is available as a standalone Markdown file in the `/docs` folder.  
 You can click any section above to navigate, or browse directly on GitHub.
 
 ---
-
-## TOKENOMICS
- 1. [TOKENOMICS](TOKENOMICS.md) 
 
 ## Thank you
 
