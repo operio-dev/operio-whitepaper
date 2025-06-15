@@ -8,6 +8,42 @@ Each module operates with a high degree of autonomy, yet remains fully integrate
 
 Below is an overview of the core modules available at launch:
 
+### Finance Agent (AI Finance Console)
+
+The Finance Agent is your company’s intelligent CFO.
+
+It connects to your treasury (wallets or bank accounts), understands incoming and outgoing transactions, and generates real-time reports and forecasts.
+
+**Key features:**
+- Real-time cash flow forecasting  
+- Budgeting suggestions based on goals and burn rate  
+- Crypto/fiat hybrid treasury tracking  
+- AI-generated alerts for anomalies or overspending  
+- Can trigger actions (e.g. freeze spending) via on-chain logic  
+
+**Web3 Example:**  
+Auto-generate reports on stablecoin holdings, protocol earnings, or vesting schedules from multisig wallets.
+
+---
+
+### Accountant Agent
+
+The Accountant Agent simplifies compliance and operations.
+
+It acts like a smart back-office assistant that auto-generates documents and insights based on your operations and payments.
+
+**Key features:**
+- Automatic invoice generation from CRM / Smart Contracts  
+- Payment tracking and categorization  
+- Tax-ready financial reports (even in Web3 environments)  
+- Cross-border payments logging  
+- Can communicate with external platforms like QuickBooks or Xero (optional)  
+
+**Web3 Example:**  
+Auto-generate invoices when contributors are paid from a multisig or DAO treasury. Match TX hash with internal records.
+
+---
+
 ### Sales Intelligence Agent
 
 The Sales module is driven by an agent optimized for real-time commercial interaction. It augments outbound sales workflows by predicting prospect behavior, managing objections live, and adapting messaging based on contextual cues. Leveraging CRM data and live conversational inputs, it assists sales teams with tactical decisions and strategic pipeline management. The agent can identify conversation bottlenecks, suggest timing for follow-ups, and auto-generate personalized outreach sequences.
