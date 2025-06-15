@@ -7,6 +7,8 @@ At the core of Operio’s design are five architectural pillars that define how 
 ## 1.	Agent-Led Modules
 Rather than building each business function as a static interface for human operators, Operio structures each domain: Sales, Finance, HR, Operations, Projects, and more, as an agent-led module. These modules are powered by autonomous agents that possess domain-specific reasoning abilities and contextual awareness. Each agent is capable of interpreting goals, executing multi-step tasks, and coordinating with other agents to fulfill cross-functional objectives. For example, a Sales Agent can autonomously generate a prospecting plan, sync with the Finance Agent to forecast revenue, or collaborate with the Operations Agent to align delivery timelines.
 
+*For example, the HR Agent can autonomously manage recruitment workflows, sync hiring needs with Finance budget forecasts, and collaborate with Operations to onboard new employees seamlessly*
+
 ## 2.	Contextual Memory Layer
 At the heart of Operio lies a shared memory system that captures the evolving state of the business. This includes key variables such as operational data, conversation history, task outcomes, and high-level objectives. Unlike traditional systems where each module maintains its own data store, Operio’s memory layer acts as a centralized context backbone. This enables agents to recall past decisions, detect temporal patterns, and provide continuity across workflows. A decision made in a financial planning session, for example, can automatically influence future hiring strategies, project timelines, or pricing structures.
 
