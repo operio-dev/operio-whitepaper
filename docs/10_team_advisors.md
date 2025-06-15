@@ -4,11 +4,11 @@
 
 Operio has attracted support from a select group of visionary advisors/investors who believe in the future of AI-driven enterprise software. Key early backers include:
 
-- Danilo Sarra: Founding partner at Koniqa Ventures, angel investor in multiple B2B SaaS startups across Europe. Focused on GTM and early-stage fundraising
-- Chiara Russo: Co-founder & CEO at Codemotion. Advisor on developer community engagement and product-led growth strategies.
-- Marcelo Lebre: Co-founder & COO at Remote. Deep experience in scaling remote-first companies and building global operations infrastructure
-- Stefano Bellasio: Founder of Cloud Academy (acquired), now active angel investor. Strategic input on technical product scalability and enterprise positioning (Name, background, contribution)
-- Francesco Corea — AI researcher & advisor, author of Applied Artificial Intelligence. Advisor on responsible AI implementation and AGI-native architecture design.
+- **Balaji Srinivasan**: Former CTO at Coinbase, angel investor in multiple startups across Europe. Focused on AGI & Web3 disruptive potential.
+- **Xinshu Dong**: Tech-focused VC in Asia and Europe, ex Zilliqa, advisor in various early-stage projects.
+- **Jason Choi**: GP at Tangent Ventures, very into DeFi and infra ecosystem and B2B AGI enthusiast.
+- **Michael Tsai**: Early-stage product strategist and former enterprise AI consultant, now supporting AGI-native SaaS startups. Strategic input on technical product scalability and enterprise positioning (Name, background, contribution)
+- **Julian Mayer** — US-based token design analyst with experience in early token launches and Web3 SaaS models.
 
 *We are actively expanding our investor network to accelerate product development and market penetration with in-place contacts with Emblem VC ecosystem*.
 
