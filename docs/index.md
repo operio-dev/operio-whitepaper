@@ -36,7 +36,7 @@ Operio is the first modular, pro-active, and business-intuitive operating system
    [Tokenomics](TOKENOMICS.md)
 
 ## FUNDING  
-   [Funding Status](FUNDING.md)
+   [Funding Status](Funding.md)
 
 ## LAUNCH STRATEGY  
    [Launchpad Strategy](Launchpad_Strategy.md)
