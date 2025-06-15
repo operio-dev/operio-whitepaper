@@ -170,12 +170,6 @@ Audits DAO or protocol operations, surfacing inefficiencies in contributor flows
 
 ---
 
-### Project & Operations Agent
-
-Focused on internal execution, the Project and Operations module coordinates tasks, milestones, and cross-functional workflows. The agent dynamically generates project plans from strategic objectives or user inputs, continuously adjusting schedules and resource allocations based on real-time availability and shifting priorities. It facilitates interdepartmental collaboration by monitoring dependencies and escalating issues, thereby improving operational efficiency and transparency.
-
----
-
 ### HR Agent
 
 The HR Agent is your autonomous people and talent manager.
