@@ -30,6 +30,9 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 ## LAUNCH STRATEGY  
    [Launchpad Strategy](Launchpad_Strategy.md)
 
+## GTM Strategy
+[Go-To-Market & Community](GTM.md)
+
 ---
 
 ## How to use this whitepaper
