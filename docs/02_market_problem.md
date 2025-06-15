@@ -30,6 +30,9 @@ This growing disconnect between enterprise needs and available tooling is becomi
 
 Yet the infrastructure that supports these organizations remains rooted in assumptions from a past era. Systems were designed around quarterly planning, sequential workflows, and human oversight. They lack the fluidity and intelligence required to respond to modern operational demands, particularly as organizations scale across markets and time zones.
 
+### Cost of Inaction
+Enterprises remaining on legacy ERP stacks face rising hidden costs: disconnected workflows, manual oversight, slow responsiveness, and increased operational drag. As complexity grows, these inefficiencies compound, directly impacting revenue, agility, and competitiveness. The longer the delay in transitioning to intelligence-native systems, the greater the cost—and the harder the shift becomes.
+
 At the same time, AI, especially in the form of large language models, real-time reasoning engines, and autonomous software agents, it has unlocked entirely new possibilities. Tasks that once required teams of analysts and operators can now be executed, optimized, and improved autonomously. From data harmonization to cross-functional orchestration, from financial forecasting to strategic execution, the foundation models available today offer a transformative shift in how software can act within an enterprise.
 
 And yet, no mainstream ERP or business platform has fully embraced this evolution. The opportunity is wide open for a new kind of system, one that does not merely integrate AI as an add-on, but rethinks the entire architecture around intelligence, adaptability, and orchestration.
