@@ -14,6 +14,9 @@ Many ERP and SaaS solutions are built on monolithic codebases or inflexible work
 ### Siloed Architectures and Fragmented Data
 Different departments adopt disparate tools that do not communicate natively. This fragmentation introduces inefficiencies, obstructs end-to-end visibility, and forces companies to spend significant resources on building data bridges and middleware just to keep their operations coherent.
 
+> Real-World Example:  
+A mid-sized e-commerce company using four disconnected SaaS tools for finance, inventory, customer service, and logistics spends over **$40K annually** just on middleware and data patching efforts. Despite these expenses, cross-functional insight remains fragmented and time-to-decision remains slow. Their operations team still relies heavily on manual syncs and error-prone exports.
+
 ### Static Process Design
 Traditional systems are built around fixed workflows that assume linear and predictable operations. In practice, however, organizations today must respond to change in real time, whether due to customer behavior, market volatility, or supply chain dynamics. Legacy tools lack the adaptive logic and contextual awareness needed to support dynamic decision-making at scale.
 
