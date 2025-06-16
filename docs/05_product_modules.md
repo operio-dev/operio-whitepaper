@@ -2,11 +2,11 @@
 
 ## Market Context & Opportunity
 
-The global ERP market, valued at $54.8 billion in 2024, remains fundamentally broken. Legacy systems like SAP, Oracle, and NetSuite were architected in the 1990s—before cloud computing, before AI, before the modern economy existed. They require armies of consultants, months of implementation, and still fail 75% of the time.
+The global ERP market, valued at $54.8 billion in 2024, remains fundamentally broken. Legacy systems like SAP, Oracle, and NetSuite were architected in the 1990s, before cloud computing, before AI, before the modern economy existed. They require armies of consultants, months of implementation, and still fail 75% of the time.
 
 **The trillion-dollar problem:** Modern businesses operate across fragmented tools (150+ SaaS apps on average), creating operational blindness, data silos, and manual inefficiencies that cost companies 40% of their operational capacity.
 
-**The AGI breakthrough:** For the first time in computing history, we can build systems that *understand* business context, make autonomous decisions, and orchestrate complex workflows without human intervention. This isn't automation—it's artificial general intelligence applied to enterprise operations.
+**The AGI breakthrough:** For the first time in computing history, we can build systems that *understand* business context, make autonomous decisions, and orchestrate complex workflows without human intervention. This isn't automation, it's artificial general intelligence applied to enterprise operations.
 
 ---
 
@@ -69,7 +69,7 @@ Transforms compliance from a cost center into an automated intelligence layer th
 ### Sales Intelligence Agent: AI-Powered Revenue Engine
 *Replaces: Salesforce Sales Cloud, HubSpot Sales Hub, Outreach, Gong*
 
-The first AI agent capable of executing the entire sales cycle—from lead identification to contract signature—with minimal human intervention.
+The first AI agent capable of executing the entire sales cycle, from lead identification to contract signature, with minimal human intervention.
 
 **Core Capabilities:**
 - **Predictive Lead Scoring:** 4.2x improvement in qualified lead conversion using 200+ behavioral signals
@@ -341,4 +341,4 @@ The Orchestration Layer represents the breakthrough that transforms individual A
 
 ---
 
-*Operio's modular intelligence architecture represents the future of enterprise software—where artificial general intelligence doesn't just support business operations, it elevates them to superhuman performance levels.*
+*Operio's modular intelligence architecture represents the future of enterprise software, where artificial general intelligence doesn't just support business operations, it elevates them to superhuman performance levels.*
