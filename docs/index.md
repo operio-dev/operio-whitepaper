@@ -32,20 +32,20 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 
 ---
 
-## TOKENOMICS
+## Tokenomics
    [Tokenomics](TOKENOMICS.md)
+ ### Use Cases
+ [Use Cases & Token Utility] (Use_Cases.md)
 
-## FUNDING  
+## Funding Status  
    [Funding Status](Funding_Status.md)
 
-## LAUNCH STRATEGY  
+## Launch Strategy  
    [Launchpad Strategy](Launchpad_Strategy.md)
 
-## GTM Strategy
+## Go-To-Market Strategy
 [Go-To-Market & Community](GTM.md)
 
-## USE CASES 
-[Use Cases & Token Utility](Use_Cases.md)
 
 ---
 
