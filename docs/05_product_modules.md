@@ -24,7 +24,7 @@ Operio reimagines ERP as a constellation of specialized AI agents, each designed
 
 ## Intelligence Modules Portfolio
 
-### 🧠 Finance Agent: Your Autonomous CFO
+### Finance Agent: Your Autonomous CFO
 *Replaces: NetSuite Financial Management, QuickBooks Enterprise, Prophix*
 
 The Finance Agent operates as an always-on Chief Financial Officer, providing real-time financial intelligence and autonomous treasury management across traditional and crypto assets.
@@ -45,7 +45,7 @@ The Finance Agent operates as an always-on Chief Financial Officer, providing re
 
 ---
 
-### 📊 Accountant Agent: Intelligent Back-Office Automation
+### Accountant Agent: Intelligent Back-Office Automation
 *Replaces: Xero, FreshBooks, Sage, plus 5-10 accounting staff*
 
 Transforms compliance from a cost center into an automated intelligence layer that generates actionable business insights from every transaction.
@@ -66,7 +66,7 @@ Transforms compliance from a cost center into an automated intelligence layer th
 
 ---
 
-### 🎯 Sales Intelligence Agent: AI-Powered Revenue Engine
+### Sales Intelligence Agent: AI-Powered Revenue Engine
 *Replaces: Salesforce Sales Cloud, HubSpot Sales Hub, Outreach, Gong*
 
 The first AI agent capable of executing the entire sales cycle—from lead identification to contract signature—with minimal human intervention.
@@ -87,7 +87,7 @@ The first AI agent capable of executing the entire sales cycle—from lead ident
 
 ---
 
-### 🤝 CRM Agent: Relationship Intelligence Platform
+### CRM Agent: Relationship Intelligence Platform
 *Replaces: Salesforce CRM, HubSpot CRM, Pipedrive, plus customer success tools*
 
 Transforms customer relationship management from reactive data entry into proactive relationship orchestration across the entire customer lifecycle.
@@ -108,7 +108,7 @@ Transforms customer relationship management from reactive data entry into proact
 
 ---
 
-### 📦 Inventory Agent: Autonomous Stock Intelligence
+### Inventory Agent: Autonomous Stock Intelligence
 *Replaces: Oracle WMS, Manhattan Associates, TradeGecko*
 
 Transforms inventory management from reactive spreadsheets into predictive supply chain intelligence that prevents stockouts while minimizing carrying costs.
@@ -129,7 +129,7 @@ Transforms inventory management from reactive spreadsheets into predictive suppl
 
 ---
 
-### 🚚 Supply Chain Agent: Intelligent Procurement Network
+### Supply Chain Agent: Intelligent Procurement Network
 *Replaces: SAP Ariba, Oracle Procurement, Coupa*
 
 Orchestrates global supply networks using AI-powered vendor optimization, risk management, and smart contract automation.
@@ -150,7 +150,7 @@ Orchestrates global supply networks using AI-powered vendor optimization, risk m
 
 ---
 
-### 💳 Purchase Agent: Intelligent Procurement Officer
+### Purchase Agent: Intelligent Procurement Officer
 *Replaces: Coupa, ProcurementExpress, manual approval workflows*
 
 Automates purchasing decisions while enforcing budget controls and optimizing vendor relationships through AI-powered procurement intelligence.
@@ -171,7 +171,7 @@ Automates purchasing decisions while enforcing budget controls and optimizing ve
 
 ---
 
-### 📋 Project Agent: Autonomous Project Intelligence
+### Project Agent: Autonomous Project Intelligence
 *Replaces: Monday.com, Asana, Microsoft Project, plus project managers*
 
 Transforms project management from manual coordination into autonomous execution with AI-powered planning, resource allocation, and adaptive timeline management.
@@ -192,7 +192,7 @@ Transforms project management from manual coordination into autonomous execution
 
 ---
 
-### ⚙️ Operations Agent: Intelligent COO System
+### Operations Agent: Intelligent COO System
 *Replaces: Multiple operations tools, business analysts, COO staff*
 
 Provides continuous operational intelligence across all business functions, identifying inefficiencies and orchestrating optimization initiatives in real-time.
@@ -213,7 +213,7 @@ Provides continuous operational intelligence across all business functions, iden
 
 ---
 
-### 👥 HR Agent: Autonomous People Operations
+### HR Agent: Autonomous People Operations
 *Replaces: Workday, BambooHR, Lever, plus HR staff*
 
 Manages the complete employee lifecycle from talent acquisition to performance management using AI-powered people analytics and predictive workforce planning.
@@ -234,7 +234,7 @@ Manages the complete employee lifecycle from talent acquisition to performance m
 
 ---
 
-### ⚖️ Legal Agent: Intelligent Legal Operations
+### Legal Agent: Intelligent Legal Operations
 *Replaces: Contract management software, legal review services, compliance tools*
 
 Automates legal processes from contract generation to risk assessment, ensuring compliance while accelerating business operations.
@@ -255,7 +255,7 @@ Automates legal processes from contract generation to risk assessment, ensuring 
 
 ---
 
-## 🎭 Orchestration Layer: The AGI Brain
+## Orchestration Layer: The AGI Brain
 
 The Orchestration Layer represents the breakthrough that transforms individual AI agents into a cohesive business intelligence system. This is where autonomous operations become truly intelligent.
 
