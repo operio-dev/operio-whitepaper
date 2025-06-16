@@ -31,11 +31,12 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 [11_faq](11_faq.md)
 
 ---
+# Tokenomics, Funding and Launching
 
 ## Tokenomics
    [Tokenomics](TOKENOMICS.md)
  ### Use Cases
- [Use Cases & Token Utility] (Use_Cases.md)
+ [Use Cases & Token Utility](Use_Cases.md)
 
 ## Funding Status  
    [Funding Status](Funding_Status.md)
