@@ -2,7 +2,7 @@
 
 ## Architecture Philosophy
 
-We built Operio with a simple conviction: **traditional ERP architectures can't support artificial general intelligence**. Legacy systems were designed for deterministic workflows and human operators. AGI requires fundamentally different primitives—autonomous agents, real-time orchestration, and infinite scalability.
+We built Operio with a simple conviction: **traditional ERP architectures can't support artificial general intelligence**. Legacy systems were designed for deterministic workflows and human operators. AGI requires fundamentally different primitives, autonomous agents, real-time orchestration, and infinite scalability.
 
 Our stack is optimized for three core principles:
 - **Agent-First Architecture**: Every component designed to support autonomous decision-making
@@ -28,7 +28,7 @@ Our stack is optimized for three core principles:
 - Smart caching of agent decisions and frequently accessed business data
 - Offline-first mobile experiences with eventual consistency
 
-**Why This Matters**: When your Finance Agent needs to process 10,000 transactions per second during month-end close, traditional cloud architectures break. Our container-native approach scales individual agents independently—your CRM Agent can handle Black Friday traffic while your HR Agent maintains normal operations.
+**Why This Matters**: When your Finance Agent needs to process 10,000 transactions per second during month-end close, traditional cloud architectures break. Our container-native approach scales individual agents independently, your CRM Agent can handle Black Friday traffic while your HR Agent maintains normal operations.
 
 ---
 
@@ -51,7 +51,7 @@ Our stack is optimized for three core principles:
 - Circuit breakers and retry logic designed for autonomous decision-making
 - Built-in A/B testing framework for agent behavior optimization
 
-**Why Node.js + Rust**: Node.js gives us the velocity to iterate on business logic rapidly. Rust handles the performance-critical paths where agent coordination happens. Most importantly, both ecosystems have exceptional AI/ML libraries—we're not locked into Python's limitations.
+**Why Node.js + Rust**: Node.js gives us the velocity to iterate on business logic rapidly. Rust handles the performance-critical paths where agent coordination happens. Most importantly, both ecosystems have exceptional AI/ML libraries; we're not locked into Python's limitations.
 
 ---
 
@@ -81,7 +81,7 @@ Our stack is optimized for three core principles:
 - Privacy-preserving federated learning across customer deployments
 - Automatic model versioning and rollback capabilities
 
-**Why This Architecture**: Generic chatbots can't run a business. Our agents understand enterprise context, maintain long-term memory, and make decisions with real financial impact. The safety and explainability layers aren't afterthoughts—they're core to the architecture.
+**Why This Architecture**: Generic chatbots can't run a business. Our agents understand enterprise context, maintain long-term memory, and make decisions with real financial impact. The safety and explainability layers aren't afterthoughts, they're core to the architecture.
 
 ---
 
