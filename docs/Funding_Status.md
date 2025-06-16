@@ -14,11 +14,11 @@ This commitment reflects a high level of conviction and long-term founder alignm
 
 ---
 
-### Current Raise — Pre-Pre-Seed (€50–100K)
+### Current Raise — Pre-Seed (1/1.5M)
 
-We are currently raising between **€50,000 and €100,000** to:
+We are currently raising between **€1M and €1.5M** to:
 
-- Deliver a working MVP with ~70% feature coverage  
+- Deliver a working MVP with 90% feature coverage  
 - Launch with 10 pilot clients across sales and ops use cases  
 - Harden the technical infrastructure for real-world usage  
 - Build momentum toward a larger institutional round  
@@ -29,7 +29,7 @@ The goal is to achieve **early traction, validation, and velocity** before enter
 
 ### Looking Ahead — Pre-Seed & Seed Strategy
 
-Upon demonstrating engagement and retention among pilot customers, we plan to raise a **Pre-Seed round (6–9 months out)** focused on:
+Upon demonstrating engagement and retention among pilot customers, we plan to raise another **Pre-Seed round (6–9 months out)** focused on:
 
 - Team expansion (AI engineers, DevOps, design, GTM)  
 - Accelerating customer acquisition through focused verticals  
