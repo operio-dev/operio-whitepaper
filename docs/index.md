@@ -35,7 +35,8 @@ Operio is the first modular, pro-active, and business-intuitive operating system
 
 ## Tokenomics
    [Tokenomics](TOKENOMICS.md)
- ### Use Cases
+
+### Use Cases
  [Use Cases & Token Utility](Use_Cases.md)
 
 ## Funding Status  
