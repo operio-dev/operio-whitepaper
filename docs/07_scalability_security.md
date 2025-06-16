@@ -4,7 +4,7 @@
 
 Enterprise software has a dirty secret: **it doesn't scale**. SAP collapses under Black Friday traffic. NetSuite chokes during month-end close. Oracle requires downtime for major updates.
 
-The fundamental problem isn't compute power—it's architecture. Legacy ERP systems were designed for batch processing and human operators. They can't handle the concurrent workloads of modern business, let alone the demands of autonomous AGI agents making thousands of decisions per second.
+The fundamental problem isn't compute power, it's architecture. Legacy ERP systems were designed for batch processing and human operators. They can't handle the concurrent workloads of modern business, let alone the demands of autonomous AGI agents making thousands of decisions per second.
 
 We built Operio to solve this problem permanently.
 
@@ -241,4 +241,4 @@ We built Operio to solve this problem permanently.
 - **Automated Compliance**: Continuous compliance monitoring and reporting  
 - **Business Intelligence**: Provides insights for strategic decision-making
 
-This isn't just scalability and security—it's operational superiority. While competitors struggle with basic reliability, Operio delivers enterprise-grade performance that scales with your ambition.
+This isn't just scalability and security, it's operational superiority. While competitors struggle with basic reliability, Operio delivers enterprise-grade performance that scales with your ambition.
