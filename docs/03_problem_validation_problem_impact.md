@@ -9,37 +9,52 @@ Our comprehensive market research across 2,847 businesses validates the universa
 Small to mid-sized businesses represent the most acute manifestation of ERP inefficiency, where limited resources amplify the impact of administrative overhead. Our research across European and North American SMBs reveals systematic productivity drains that Operio's AGI-native approach can eliminate.
 
 **Time Burden Analysis:**
-• **16 hours weekly average** - SME owners spend 2 out of 5 working days on administrative tasks
-• **71 days annually** - Total time equivalent spent on manual processes per business
-• **7-14 hours per employee** - Weekly administrative overhead across all staff levels
+• **16 hours weekly average** 
+SME owners spend 2 out of 5 working days on administrative tasks
+• **71 days annually** 
+Total time equivalent spent on manual processes per business
+• **7-14 hours per employee**
+Weekly administrative overhead across all staff levels
 
 **Financial Impact Quantification:**
-• **£35,600 annual cost** - Average yearly financial impact per small company
-• **€10,000-30,000 per individual** - Annual value lost to manual administrative work
-• **€200-600 weekly opportunity cost** - Per person value lost by not focusing on high-impact activities
+• **£35,600 annual cost** 
+Average yearly financial impact per small company
+• **€10,000-30,000 per individual**
+Annual value lost to manual administrative work
+• **€200-600 weekly opportunity cost**
+Per person value lost by not focusing on high-impact activities
 
 ### Mid-Market Enterprise Validation (50-2,500 employees)
 
 Mid-market organizations face compound inefficiencies where manual processes create cascading delays across departments. Our analysis of 247 mid-market companies reveals that ERP limitations become exponentially more costly as organizational complexity increases.
 
 **Operational Impact Metrics:**
-• **40-60% of knowledge worker time** - Consumed by manual processes that could be automated
-• **4-6 weeks lag time** - Between real-time data availability and actionable business insights
-• **$2-8 million annual inefficiency costs** - Per mid-market enterprise due to ERP limitations
+• **40-60% of knowledge worker time**
+Consumed by manual processes that could be automated
+• **4-6 weeks lag time**
+Between real-time data availability and actionable business insights
+• **$2-8 million annual inefficiency costs**
+Per mid-market enterprise due to ERP limitations
 
 **Scalability Constraints:**
-• **178% average cost overruns** - During ERP implementation projects
-• **60-70% implementation failure rate** - Across all major traditional vendors
-• **Below 40% user adoption** - In first year post-implementation
+• **178% average cost overruns**
+During ERP implementation projects
+• **60-70% implementation failure rate**
+Across all major traditional vendors
+• **Below 40% user adoption**
+In first year post-implementation
 
 ### Enterprise Segment Validation (2,500+ employees)
 
 Large enterprises face the most complex ERP challenges, where legacy system constraints limit competitive agility in the AGI era. Fortune 500 interviews reveal critical gaps between current capabilities and AGI-era requirements.
 
 **Strategic Impact Areas:**
-• **15-25% operational advantage** - Gained by AGI-powered competitors over legacy ERP users
-• **$150,000+ talent premium** - Additional recruitment costs due to outdated technology stacks
-• **15-20 year replacement cycles** - Completely misaligned with AGI advancement pace
+• **15-25% operational advantage**
+Gained by AGI-powered competitors over legacy ERP users
+• **$150,000+ talent premium**
+Additional recruitment costs due to outdated technology stacks
+• **15-20 year replacement cycles**
+Completely misaligned with AGI advancement pace
 
 ## Individual Impact: The Human Cost of ERP Inefficiency
 
@@ -89,9 +104,12 @@ Initial enterprise conversations indicate willingness to pay 3-5x current ERP co
 Upcoming regulatory requirements transform ERP modernization from strategic initiative to compliance necessity, dramatically accelerating adoption timelines and increasing switching costs from legacy systems.
 
 **Regulatory Drivers:**
-• **EU AI Act requirements** - Making legacy ERP systems compliance liabilities
-• **SOX real-time reporting mandates** - Requiring capabilities that traditional ERPs cannot provide
-• **Data sovereignty regulations** - Favoring modular, controlable architectures like Operio's design
+• **EU AI Act requirements**
+Making legacy ERP systems compliance liabilities
+• **SOX real-time reporting mandates**
+Requiring capabilities that traditional ERPs cannot provide
+• **Data sovereignty regulations**
+Favoring modular, controlable architectures like Operio's design
 
 ## Investment Thesis Validation
 
