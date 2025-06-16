@@ -61,5 +61,5 @@ You can click any section above to navigate, or browse directly on GitHub.
 ## THANK YOU
 
 Thank you for your interest in Operio.  
-We’re building something radically new — and you’re among the first to see it.
+We’re building something radically new and you’re among the first to see it.
 
