@@ -1,18 +1,21 @@
-# Advisors & Team
+### Strategic Advisors
 
-### Advisors 
+Operio is backed by a handpicked group of strategic advisors who understand the shift from traditional SaaS to autonomous, AGI-native enterprise systems.
+Their insights span across product, go-to-market, and deep AI execution. 
 
-Operio has attracted support from a select group of visionary advisors/investors who believe in the future of AI-driven enterprise software. Key early backers include:
+Our core advisory circle includes:
+	
+ •	@punk6529 — One of the most influential voices in Web3. A systems thinker and operator, he supports our vision of permissionless automation and the intersection between decentralized infra and enterprise tools.
+	
+ •	@pet3rpan_ — Founding member of MetaCartel & Venture DAO. Brings early-stage investment insight and an ecosystem-first mindset across Web3-native coordination and tooling.
 
-- **Balaji Srinivasan**: Former CTO at Coinbase, angel investor in multiple startups across Europe. Focused on AGI & Web3 disruptive potential.
-- **Xinshu Dong**: Tech-focused VC in Asia and Europe, ex Zilliqa, advisor in various early-stage projects.
-- **Jason Choi**: GP at Tangent Ventures, very into DeFi and infra ecosystem and B2B AGI enthusiast.
-- **Michael Tsai**: Early-stage product strategist and former enterprise AI consultant, now supporting AGI-native SaaS startups. Strategic input on technical product scalability and enterprise positioning (Name, background, contribution)
-- **Julian Mayer** — US-based token design analyst with experience in early token launches and Web3 SaaS models.
-
-*We are actively expanding our investor network to accelerate product development and market penetration with in-place contacts with Emblem VC ecosystem*.
-
-*Initial validation and feedback loops are ongoing with micro-funds and angels active in the B2B SaaS and productivity tooling space (including Lumen Ventures and Calm/Storm VC).*
+ •	Dan Shipper — CEO of Every, sharp product thinker and SaaS writer. Advises on narrative clarity, product resonance, and positioning in complex markets.
+	
+ •	Anthony Kennada — Founding CMO at Gainsight and CEO at AudiencePlus. Expert in category design and GTM in the SaaS landscape.
+	
+ •	Hamed Hossain — Deep AI strategist and product leader with hands-on experience scaling applied AI across enterprise. Focused on model-product fit and infrastructure.
+	
+ •	Elas Gil — Operator and founder with experience across emerging tech, vertical SaaS and early-stage funding. Brings a high-conviction, founder-centric perspective.
 
 ---
 
