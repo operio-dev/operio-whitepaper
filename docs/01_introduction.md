@@ -5,7 +5,7 @@ Operio is the first AGI-native modular ERP designed to eliminate the fundamental
 
 While the world debates whether AI will change work, we're building the system that makes that change inevitable.
 
-Every enterprise today runs on digital bureaucracy—rigid software that forces humans to translate their intentions into database entries, workflow approvals, and endless configuration screens. This is the last generation of software that will ask humans to adapt to machines.
+Every enterprise today runs on digital bureaucracy, rigid software that forces humans to translate their intentions into database entries, workflow approvals, and endless configuration screens. This is the last generation of software that will ask humans to adapt to machines.
 
 Operio inverts this relationship completely. 
 
