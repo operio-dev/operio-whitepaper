@@ -1,5 +1,5 @@
-Introduction
-The enterprise software era is dead. Welcome to the age of autonomous business.
+# Introduction
+## The enterprise software era is dead. Welcome to the age of autonomous business.
 
 Operio is the first AGI-native modular ERP designed to eliminate the fundamental friction between human intent and business execution. 
 
