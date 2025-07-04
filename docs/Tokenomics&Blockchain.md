@@ -10,7 +10,7 @@ Unlike speculative crypto projects focused primarily on token appreciation, Oper
 
 ### Supply Architecture
 
-**Total Supply**: 100,000,000 $OPER (Fixed Supply)
+**Total Supply**: 150,000,000 $OPXR (Fixed Supply)
 
 The fixed supply design eliminates inflation concerns while providing sufficient granularity for micro-transactions and fractional usage across global enterprise deployments. Supply scarcity drives value appreciation as platform adoption grows, rewarding early adopters and active community participants.
 
@@ -18,13 +18,13 @@ The fixed supply design eliminates inflation concerns while providing sufficient
 
 | Allocation Category | Percentage | Tokens | Vesting Schedule | Strategic Purpose |
 |-------------------|------------|---------|------------------|------------------|
-| **Team & Advisors** | 20% | 20M | 36 months, 12-month cliff | Long-term development alignment |
-| **Seed Funding** | 15% | 15M | 24 months, 6-month cliff | Early development capital |
-| **IDO Public Sale** | 25% | 25M | 50% immediate, 50% over 6 months | Community building & liquidity |
-| **Community Rewards** | 20% | 20M | Performance-based release | Training incentives & growth |
-| **Development Fund** | 10% | 10M | DAO governance controlled | Feature development & partnerships |
-| **Liquidity Provision** | 5% | 5M | Locked 18 months | Market stability |
-| **Strategic Reserve** | 5% | 5M | Multi-signature controlled | Emergency funding & opportunities |
+| **Team & Advisors** | 20% | 30M | 36 months, 12-month cliff | Long-term development alignment |
+| **Seed Funding** | 15% | 22.5M | 24 months, 6-month cliff | Early development capital |
+| **IDO Public Sale** | 25% | 37.5M | 50% immediate, 50% over 6 months | Community building & liquidity |
+| **Community Rewards** | 20% | 30M | Performance-based release | Training incentives & growth |
+| **Development Fund** | 10% | 15M | DAO governance controlled | Feature development & partnerships |
+| **Liquidity Provision** | 5% | 7.5M | Locked 18 months | Market stability |
+| **Strategic Reserve** | 5% | 7.5M | Multi-signature controlled | Emergency funding & opportunities |
 
 ### Vesting Structure Rationale
 
@@ -111,7 +111,9 @@ Public IDO: 7,000 participants × $171 = $1.2M
 
 **Expert Verification**: Industry specialists provide advanced validation for complex business scenarios and specialized use cases, creating expertise hierarchy within community contribution system.
 
-**Gaming Prevention**: Multiple validation requirements, contribution diversity metrics, and random quality audits prevent reward system manipulation while maintaining data quality standards.
+**Gaming Prevention**: Multiple validation requirements, contribution diversity metrics, and random quality audits prevent reward system manipulation while maintaining data quality standards. Community governance oversight includes anti-gaming enforcement with elected oversight committees investigating suspicious activity and implementing corrective measures.
+
+**Community Governance Integration**: Training program governance operates through two-tier system where community members set reward rates, quality standards, and contribution guidelines through accessible voting (1,000 $OPXR minimum), while DAO governance handles budget allocation and strategic program direction.
 
 ### Post-Launch Training Rewards Program
 
@@ -140,9 +142,9 @@ Public IDO: 7,000 participants × $171 = $1.2M
 
 | Access Tier | Staking Requirement | Capabilities Included | Target User Type |
 |------------|-------------------|---------------------|------------------|
-| **Basic** | 1,000 $OPER | Core agent functionality, basic integrations | Small business users |
-| **Professional** | 5,000 $OPER | Advanced features, priority support | Growing companies |
-| **Enterprise** | 10,000+ $OPER | Custom deployment, white-label options | Large organizations |
+| **Basic** | 1,000 $OPXR | Core agent functionality, basic integrations | Small business users |
+| **Professional** | 5,000 $OPXR | Advanced features, priority support | Growing companies |
+| **Enterprise** | 10,000+ $OPXR | Custom deployment, white-label options | Large organizations |
 
 ### AI Compute Credits
 
@@ -154,7 +156,7 @@ Public IDO: 7,000 participants × $171 = $1.2M
 
 ### Marketplace Integration
 
-**Third-Party Services**: Integration marketplace uses $OPER tokens for purchasing premium connectors, custom automation scripts, and professional services. Developer revenue sharing creates sustainable ecosystem incentives.
+**Third-Party Services**: Integration marketplace uses $OPXR tokens for purchasing premium connectors, custom automation scripts, and professional services. Developer revenue sharing creates sustainable ecosystem incentives.
 
 **Professional Services**: Implementation consulting, custom development, and training services available through token payments with competitive pricing compared to traditional fiat-based services.
 
@@ -223,31 +225,91 @@ Public IDO: 7,000 participants × $171 = $1.2M
 
 **Market Competition**: Focus on differentiated AI capabilities and community-driven development creates sustainable competitive advantages independent of token price performance.
 
-## Governance Framework & Decentralization
+## DAO Governance Technical Framework
 
-### Progressive Decentralization Timeline
+### Governance Architecture & Smart Contract Implementation
 
-**Phase 1 (Months 1-12)**: Foundation-led development with community input on non-core decisions including treasury allocation, partnership approvals, and community program parameters.
+**Multi-Signature Treasury Management**: DAO treasury operations utilize multi-signature smart contracts requiring 3-of-5 signatures from elected community representatives for treasury spending above €50,000. Smaller operational expenses (under €10,000) can be approved through simple majority voting with 48-hour execution delays for community oversight.
 
-**Phase 2 (Months 12-24)**: Hybrid governance with community control over feature prioritization, ecosystem grants, and strategic initiatives while maintaining technical development efficiency.
+**Proposal Lifecycle Management**: Governance proposals follow structured phases including discussion (7 days), formal proposal submission (requiring 10,000 $OPXR stake), voting period (5 days), and execution delay (2 days). This timeline ensures thorough community consideration while maintaining operational efficiency.
 
-**Phase 3 (Month 24+)**: Full DAO governance with community control over platform development, treasury management, and strategic direction through established governance frameworks.
+**Voting Weight Calculation**: Governance power derives from both token holdings and platform engagement metrics using the formula: Voting Power = √(Token Holdings) × Platform Activity Multiplier (1.0-2.0x). This hybrid approach prevents pure token-based plutocracy while rewarding active community participation.
 
-### Voting Mechanisms
+### Technical Governance Infrastructure
 
-**Weighted Voting**: Voting power considers both token holdings and platform usage history ensuring governance reflects active community engagement rather than purely financial stake.
+**On-Chain Voting Mechanisms**: Governance utilizes Snapshot for gasless off-chain voting with on-chain execution through Gnosis Safe multisignature contracts. Voting power snapshots occur at proposal creation to prevent voting manipulation through token acquisition during voting periods.
 
-**Proposal Requirements**: Minimum token stakes for proposal submission prevent spam while enabling meaningful community participation in platform direction and resource allocation.
+**Proposal Categories & Requirements**:
 
-**Execution Framework**: Multi-signature treasury management with community oversight ensures responsible fund allocation while maintaining operational efficiency.
+| Proposal Type | Token Requirement | Voting Threshold | Execution Delay | Authority Level |
+|---------------|------------------|------------------|-----------------|-----------------|
+| **Platform Features** | 25,000 $OPXR | 50% + 1 | 2 days | All token holders |
+| **Treasury Spending** | 50,000 $OPXR | 60% majority | 7 days | Governance committee |
+| **Strategic Partnerships** | 100,000 $OPXR | 65% majority | 14 days | Executive oversight |
+| **Tokenomics Changes** | 200,000 $OPXR | 75% supermajority | 30 days | Constitutional level |
 
-### Community Engagement
+**Governance Committee Structure**: Elected governance committee consists of 7 community representatives serving 6-month terms with 50% rotation to ensure continuity while enabling fresh perspectives. Committee members receive 5,000 $OPXR monthly compensation for governance responsibilities including proposal review, community communication, and treasury oversight.
 
-**Governance Incentives**: Active governance participation earns token rewards encouraging community engagement in platform development and strategic decision-making processes.
+### Progressive Decentralization Implementation
 
-**Working Groups**: Specialized committees handle technical development, business development, and community management with token-based compensation for meaningful contributions.
+**Phase 1: Foundation Governance (Months 1-12)**
+- **Foundation Control**: Core team maintains control over technical development, security protocols, and regulatory compliance
+- **Community Input**: Token holder voting on non-critical decisions including marketing initiatives, community programs, and partnership opportunities
+- **Governance Infrastructure**: Smart contract deployment, voting mechanisms testing, and community education programs
+- **Treasury Oversight**: Multi-signature treasury with foundation majority but community representation
 
-**Transparency Framework**: Regular reporting on development progress, financial metrics, and governance decisions maintains community confidence while enabling informed participation.
+**Phase 2: Hybrid Governance (Months 12-24)**
+- **Shared Authority**: Community control over 50% of treasury allocation, feature prioritization, and ecosystem grants
+- **Technical Advisory**: Community input on technical roadmap with foundation maintaining security and compliance oversight
+- **Working Groups**: Specialized committees for marketing, technical development, business development, and community management
+- **Performance Metrics**: Governance effectiveness measurement through community satisfaction surveys and platform growth correlation
+
+**Phase 3: Full DAO Governance (Month 24+)**
+- **Complete Decentralization**: Community control over all platform decisions including technical development, treasury management, and strategic direction
+- **Foundation Transition**: Core team becomes service provider to DAO with renewable contracts based on performance metrics
+- **Constitutional Framework**: Governance constitution established through supermajority vote defining fundamental platform principles and governance procedures
+- **Legal Structure**: DAO legal entity establishment in appropriate jurisdiction with regulatory compliance framework
+
+### Treasury Management & Allocation Framework
+
+**Treasury Composition & Diversification**:
+
+| Asset Category | Target Allocation | Risk Profile | Liquidity Requirements | Governance Authority |
+|----------------|------------------|--------------|----------------------|-------------------|
+| **$OPXR Tokens** | 40% | High risk/reward | Medium liquidity | Community controlled |
+| **Stablecoins (USDC)** | 35% | Low risk | High liquidity | Committee managed |
+| **ETH & Major Crypto** | 15% | Medium risk | Medium liquidity | Committee managed |
+| **Strategic Reserves** | 10% | Variable | Low liquidity | Supermajority required |
+
+**Spending Authority & Controls**: Treasury spending follows tiered authorization with automated execution for approved recurring expenses, committee approval for operational expenses under €100,000, and full community voting for strategic investments over €100,000.
+
+**Revenue Allocation Protocol**: Platform revenue distribution follows automated smart contract allocation: 40% to ongoing development, 25% to community rewards and governance incentives, 20% to token buybacks and burns, 10% to strategic reserves, and 5% to governance committee compensation.
+
+### Governance Incentive & Participation Framework
+
+**Active Governance Rewards**: Community members participating in governance receive token rewards based on participation quality including proposal creation (500-2,000 $OPXR), substantive discussion contributions (50-200 $OPXR), and consistent voting participation (25 $OPXR per vote).
+
+**Delegation Mechanisms**: Token holders can delegate voting power to trusted community members through smart contract delegation with delegation rewards sharing (10% of governance rewards flow to delegators). Delegation is revocable at any time and does not transfer token ownership.
+
+**Working Group Compensation**: Specialized working groups receive budget allocations for specific initiatives with transparent reporting requirements. Working group leaders receive 2,000-5,000 $OPXR monthly compensation based on group scope and responsibilities.
+
+### Governance Security & Risk Management
+
+**Anti-Manipulation Measures**: Multiple safeguards prevent governance attacks including voting power caps (no single entity can control >15% of voting power), proposal cooldown periods (7-day minimum between similar proposals), and emergency pause mechanisms for suspicious activity.
+
+**Execution Safeguards**: All governance decisions include execution delays enabling community review and potential reversal through emergency procedures. Critical system changes require multiple confirmation votes to prevent hasty decisions.
+
+**Legal Compliance Framework**: Governance operations maintain regulatory compliance through legal entity structuring, KYC requirements for large governance participants, and ongoing legal review of governance decisions affecting platform operations.
+
+### Governance Analytics & Transparency
+
+**Participation Metrics**: Real-time dashboards track governance health including voter turnout rates, proposal success ratios, treasury allocation efficiency, and community satisfaction scores. Monthly governance reports provide comprehensive analysis of DAO performance.
+
+**Decision Impact Tracking**: Systematic tracking of governance decision outcomes enables community learning and governance process improvement. Post-implementation reviews assess whether governance decisions achieved intended outcomes.
+
+**Community Feedback Integration**: Regular community surveys and feedback mechanisms ensure governance processes meet community needs while maintaining operational efficiency. Governance process modifications based on community input with appropriate approval procedures.
+
+This comprehensive DAO governance framework ensures sustainable community control over platform development while maintaining operational efficiency and regulatory compliance. The progressive decentralization approach reduces governance risks while building community capability for effective autonomous organization management.
 
 ## Performance Metrics & Success Indicators
 
