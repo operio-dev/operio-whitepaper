@@ -1,4 +1,4 @@
-# Executive Summary
+# Introduction
 
 Welcome to the age of AGI.
 
