@@ -30,17 +30,17 @@ The global enterprise software market represents a significant opportunity drive
 
 ### Implementation & Operational Challenges
 
-**Implementation Complexity**: Traditional ERP implementations average 12-18 months with 67% exceeding initial timelines and budgets. Implementation costs typically range from $250,000 for mid-market deployments to $5-15 million for enterprise-scale projects.
+**Implementation Complexity**: Traditional ERP implementations average 12-18 months with 67% exceeding initial timelines and budgets. Implementation costs typically range from $50,000 for mid-market deployments to >$500,000 for enterprise-scale projects.
 
 **User Adoption Barriers**: Legacy ERP systems achieve 60-70% user adoption rates at best, with complex interfaces requiring extensive training and resulting in low productivity during transition periods. User satisfaction scores average 3.2/5.0 across major enterprise software platforms.
 
-**Integration Limitations**: Organizations typically operate 200+ business applications that require integration with core ERP systems. Traditional integration approaches create technical debt, maintenance overhead, and data synchronization challenges that compound over time.
+**Integration Limitations**: Organizations typically operate 5/10+ business applications that require integration with core ERP systems. Traditional integration approaches create technical debt, maintenance overhead, and data synchronization challenges that compound over time.
 
 **Customization Constraints**: Business-specific requirements often conflict with standard ERP functionality, requiring expensive customization that complicates upgrades and creates vendor lock-in dependencies.
 
 ### Operational Inefficiency Impact
 
-**Administrative Overhead**: Knowledge workers spend 40-50% of time on manual data entry, report generation, and process coordination that intelligent systems could automate. This represents $180,000-250,000 annually in opportunity cost per professional.
+**Administrative Overhead**: Knowledge workers spend 40-50% of time on manual data entry, report generation, and process coordination that intelligent systems could automate. This represents +$30/50,000 annually in opportunity cost per professional.
 
 **Decision-Making Latency**: Traditional ERP systems provide historical reporting rather than predictive insights, creating 2-4 week delays between data availability and actionable business intelligence. This delay enables competitors with modern systems to identify opportunities and respond to market changes faster.
 
@@ -50,7 +50,7 @@ The global enterprise software market represents a significant opportunity drive
 
 ### Financial Impact Analysis
 
-**Total Cost of Ownership**: Legacy ERP systems consume 60-70% of IT budgets through maintenance, support, and incremental upgrades without meaningful capability improvements. Organizations with modern cloud-native systems achieve 40-50% lower TCO while gaining enhanced functionality.
+**Total Cost of Ownership**: Legacy ERP systems consume +60% of IT budgets through maintenance, support, and incremental upgrades without meaningful capability improvements. Organizations with modern cloud-native systems achieve 40-50% lower TCO while gaining enhanced functionality.
 
 **Competitive Disadvantage**: Companies with outdated ERP systems operate with measurable competitive disadvantages including slower response to market changes, reduced operational visibility, and limited ability to optimize resource allocation in real-time.
 
@@ -60,7 +60,7 @@ The global enterprise software market represents a significant opportunity drive
 
 ### Target Market Segmentation
 
-**Primary Target**: Mid-market companies (100-2,500 employees) with annual revenues of $50-500 million represent the optimal market entry point. These organizations require sophisticated business capabilities while lacking resources for extensive custom development projects.
+**Primary Target**: Mid-market companies (50/100-2,500 employees) with annual revenues of $10-500 million represent the optimal market entry point. These organizations require sophisticated business capabilities while lacking resources for extensive custom development projects.
 
 **Market Characteristics**:
 - Currently served by legacy ERP systems or fragmented point solutions
@@ -88,7 +88,7 @@ The global enterprise software market represents a significant opportunity drive
 ### Incumbent Vendor Assessment
 
 **Traditional Leaders (SAP, Oracle, Microsoft)**:
-- **Strengths**: Established market presence, comprehensive functionality, enterprise-scale infrastructure
+- **Strengths**: Established market presence, comprehensive functionality, enterprise-scale infrastructure, budget for IT 
 - **Limitations**: Legacy architectures incompatible with native AI integration, complex implementation requirements, high total cost of ownership
 - **AI Approach**: Bolt-on AI features rather than native intelligence, limiting automation capabilities and user experience improvements
 
@@ -98,7 +98,7 @@ The global enterprise software market represents a significant opportunity drive
 - **Market Position**: Strong in specific verticals but lack comprehensive business automation capabilities
 
 **Emerging AI-Focused Solutions**:
-- **Limited Market Presence**: Few enterprise-grade solutions with proven AI capabilities at scale
+- **Limited Market Presence**: Few enterprise-grade solutions with proven AI capabilities at scale, like Doss and Arkie. Doss received a 15M$ in funding and it uses AI for predictive insights but it's not built to be completely AGI-native.
 - **Technical Focus**: Often prioritize AI capabilities over business process integration and enterprise requirements
 - **Enterprise Readiness**: Most lack the security, compliance, and scalability features required for mid-market and enterprise adoption
 
@@ -116,9 +116,11 @@ The global enterprise software market represents a significant opportunity drive
 
 ### Recent Market Developments
 
-**Manus AI Investment**: Chinese startup Manus AI (developed by Butterfly Effect) recently raised $75 million in Series A funding led by Benchmark, achieving a $500 million valuation. This investment validates significant market appetite for AI-native business automation solutions and demonstrates institutional investor confidence in autonomous agent architectures for enterprise applications.
+**Manus AGI Investment**: Chinese startup Manus AI (developed by Butterfly Effect) recently raised $75 million in Series A funding led by Benchmark, achieving a $500 million valuation. This investment validates significant market appetite for AI-native business automation solutions and demonstrates institutional investor confidence in autonomous agent architectures for enterprise applications.
 
-**Open Source Adoption**: Suna by Kortix AI has garnered over 10,000 GitHub stars as an open-source AGI agent platform, demonstrating technical community validation of autonomous agent frameworks and providing evidence that the underlying technology has reached production readiness.
+**Doss AI Investment**: Just received 15M$ in funding. It's conceived to be the first AI native ERP with limited functions and built upon traditional ERP infrastructure. It reduced the implementation timing to just few hours of work.
+
+**Open Source Adoption**: Suna by Kortix AI has garnered over 30,000 GitHub stars and 75,000 user worldwide as an open-source AGI agent OS, demonstrating technical community validation of autonomous agent frameworks and providing evidence that the underlying technology has reached production readiness.
 
 **Enterprise Investment Trends**: Enterprise AI spending reached $67.3 billion in 2024, with 43% allocated to business process automation and intelligent operations. This investment pattern indicates strong demand for AI capabilities that current ERP vendors cannot provide through traditional architectures.
 
@@ -126,11 +128,11 @@ The global enterprise software market represents a significant opportunity drive
 
 **Market Research Findings**: Recent surveys indicate 78% of mid-market organizations plan ERP modernization within 24 months, with AI capabilities ranking as the primary decision criteria for 64% of respondents.
 
-**Technology Evaluation Activity**: Search volume for "AI ERP solutions" has increased 280% year-over-year, while "traditional ERP alternatives" searches grew 165%, indicating active market evaluation of alternatives to incumbent solutions.
+**Technology Evaluation Activity**: Search volume for "AI ERP solutions" has increased 280% year-over-year, while "traditional ERP alternatives" searches grew 120%, indicating active market evaluation of alternatives to incumbent solutions.
 
 **Budget Allocation**: IT decision-makers report allocating 35-45% of discretionary technology budgets to AI initiatives, with business process automation receiving highest priority among potential applications.
 
-**Pilot Program Activity**: Enterprise prospects are increasingly requesting proof-of-concept demonstrations for AI-native business solutions, indicating serious evaluation intent rather than exploratory interest.
+**Pilot Program Activity**: Enterprise prospects are increasingly requesting proof-of-concept demonstrations for AI-native business solutions, indicating serious evaluation intent rather than exploratory interest. Suna conducted over 200 B2B interviews and vakidated this whole concept underlying the necessity for companies to automate the most out of manual recurring tasks.
 
 ## Market Timing & Catalysts
 
