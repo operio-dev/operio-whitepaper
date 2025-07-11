@@ -2,11 +2,11 @@
 
 ## Quantifying the AGI-ERP Gap Across Market Segments
 
-The numbers tell a story that every business leader recognizes but few have quantified with precision. Over the past 12 months, we've conducted the most comprehensive analysis of ERP inefficiencies ever undertaken, surveying 2,847 businesses across three continents and every major industry vertical. What we discovered wasn't just confirmation of widespread dissatisfaction, it was evidence of a systematic crisis that transcends company size, industry, and geography.
+The numbers tell a story that every business leader recognizes but few have quantified with precision. Over the past 12 months, we've conducted the most comprehensive analysis of ERP inefficiencies ever undertaken, surveying +500 businesses across three continents and every major industry vertical. What we discovered wasn't just confirmation of widespread dissatisfaction, it was evidence of a systematic crisis that transcends company size, industry, and geography.
 
-The data reveals something profound: while the symptoms vary by organization size, the underlying disease is universal. Whether you're a startup founder wrestling with QuickBooks limitations or a Fortune 500 CTO managing a SAP implementation that's three years behind schedule and $50 million over budget, you're suffering from the same fundamental problem. Your software was designed for a world where humans adapt to machines, not the inverse.
+The data reveals something profound: while the symptoms vary by organization size, the underlying disease is universal. Whether you're a startup founder wrestling with QuickBooks limitations or a Fortune 500 CTO managing a SAP implementation that's three years behind schedule and $10 million over budget, you're suffering from the same fundamental problem. Your software was designed for a world where humans adapt to machines, not the inverse.
 
-This crisis has reached critical mass. As said before,the recent $75 million funding round for Manus AI, which achieved a $500 million valuation within months of launch, signals that institutional investors recognize the massive opportunity in AGI-native business solutions. However, our research reveals that while general-purpose AGI agents like Manus validate market appetite, enterprise organizations need domain-specific solutions that understand business complexity, regulatory requirements, and industry workflows that generic automation cannot address.
+This crisis has reached critical mass. As said in the previous chapters,the recent $75 million funding round for Manus AI, which achieved a $500 million valuation within months of launch, signals that institutional investors recognize the massive opportunity in AGI-native business solutions. However, our research reveals that while general-purpose AGI agents like Manus validate market appetite, enterprise organizations need domain-specific solutions that understand business complexity, regulatory requirements, and industry workflows that generic automation cannot address.
 
 ### SMB Segment: Where Every Hour Counts
 
@@ -82,10 +82,6 @@ Perhaps the most insidious impact of legacy ERP systems at enterprise scale is t
 
 We documented cases where enterprise organizations missed major market opportunities because their ERP systems couldn't provide necessary analysis fast enough. While competitors with AGI-native systems identified and capitalized on emerging trends, legacy system organizations were still generating reports about market conditions that no longer existed.
 
-## The Human Cost: Beyond Productivity Metrics
-
-The quantitative analysis tells only part of the story. Behind every efficiency statistic is a human cost that traditional ROI calculations never capture. Our interviews revealed consistent patterns of frustration, stress, and career stagnation that extend far beyond workplace productivity.
-
 ### The Ownership Burden
 
 Sixty-two percent of business owners we interviewed reported that the stress of ownership was worse than they expected when starting their companies. The primary source of this stress wasn't market competition or financial pressure but the constant battle with systems that should simplify operations but instead create additional complexity.
@@ -134,7 +130,7 @@ Our problem validation combines multiple research approaches to ensure comprehen
 
 ### Primary Research: Direct Market Intelligence
 
-We conducted 2,847 automated business surveys across SMB, mid-market, and enterprise segments, using stratified sampling to ensure representation across industries, geographies, and organizational structures. Rather than relying on anonymous online surveys, we conducted around 100 in-depth interviews with C-level executives and IT leaders, creating relationships that provide ongoing market intelligence.
+We conducted +500 automated business surveys across SMB, mid-market, and enterprise segments, using stratified sampling to ensure representation across industries, geographies, and organizational structures. Rather than relying on anonymous online surveys, we conducted around 100 in-depth interviews with C-level executives and IT leaders, creating relationships that provide ongoing market intelligence.
 
 The interview process revealed insights that survey data alone cannot capture. We learned about the political dynamics that drive ERP decisions, the hidden costs that never appear in budget reports, and the personal frustrations that motivate change initiatives. This qualitative intelligence informs our positioning strategy and competitive approach.
 
