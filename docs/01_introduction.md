@@ -1,8 +1,6 @@
 # Introduction
 
-Welcome to the age of AGI.
-
-For fifty years, we've accepted a fundamental lie: that businesses must conform to their software. Every day, millions of professionals waste cognitive energy translating human intuition into rigid database schemas, fighting with configuration screens that haven't meaningfully evolved since the 2000s', and drowning in the digital bureaucracy that has become the hidden tax on every business decision.
+Every day, millions of professionals waste cognitive energy translating human intuition into rigid database schemas, fighting with configuration screens that haven't meaningfully evolved since the 2000s', and drowning in the digital bureaucracy that has become the hidden tax on every business decision.
 
 This ends now: not by replacing human expertise, but by amplifying it beyond current limitations.
 
